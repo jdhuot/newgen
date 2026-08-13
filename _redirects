@@ -1,2 +1,6 @@
 /index.php  /  200
 /index.php/*  /  200
+
+# Management Team page disabled — remove these two lines to bring it back
+/management-team  /  302!
+/management-team.html  /  302!
